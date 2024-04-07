@@ -6,7 +6,9 @@ I only did the Mandatory part for this project since I did't have enough time to
 
 ![image](https://github.com/CarinaChen423/Libft/assets/115776828/74ef0be1-cb83-459b-b031-645ef8a0138d)
 
-Tester for this project I highly recommend: 
+Tester for this project I highly recommend:   
+
 https://github.com/anaiel/get_next_line/tree/master  (If you wanna use it in 42PC, you need to change clang++ to g++)
+
 https://github.com/0x050f/libft-war-machine
 
